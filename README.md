@@ -1,2 +1,2 @@
-# SD-exercicios
-Exercícios da UC Sistemas Distribuídos da Universidade do Minho. Ano letivo 2023/2024
+# DSS-exercicios
+Exercícios da UC Desenvolvimento de Sistemas de Software da Universidade do Minho. Ano letivo 2023/2024
